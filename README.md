@@ -1,4 +1,4 @@
-# zidio-development
+# ZIDIO-DEVELOPMENT
 # Overview
 This project implements and compares four different time series forecasting models to predict stock prices: ARIMA (AutoRegressive Integrated Moving Average), SARIMA (Seasonal ARIMA), Prophet (Facebook's time series forecasting tool), and LSTM (Long Short-Term Memory neural network). The analysis focuses on Apple stock data spanning from 2018 to 2023, providing a robust comparison of traditional statistical methods against modern machine learning approaches for financial time series prediction.
 
